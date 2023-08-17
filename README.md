@@ -1,2 +1,2 @@
 # wafer-coating-simulation
-Wafer coating simulation in live
+Real-life wafer coating simulation
