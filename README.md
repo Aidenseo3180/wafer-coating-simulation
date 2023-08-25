@@ -25,6 +25,7 @@ The waferline panel displays the number of coated / uncoated wafers and the prop
 The factory panel displays the number of waferlines within the factory.  
   
 Bin, obj, properties, app.config excluded.  
+Lib folders are dll.  
 
 ## Details
 
