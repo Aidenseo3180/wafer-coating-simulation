@@ -47,7 +47,7 @@ It displays everything about the waferline on live. If the value in waferline ch
 It is also capable of displaying a certain coated wafer of the selected waferline.
 
 ## To-dos
-- [ ] Supports connection through IP address
+- [ ] Support connection through IP address
 
 ## License
 
